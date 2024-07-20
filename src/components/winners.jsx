@@ -1,16 +1,16 @@
 import { React } from 'react';
 
-const Collections = () => {
+const Winners = () => {
   return (
-    <div className="collections">
-      <h2>Collections</h2>
+    <div className="Winners">
+      <h2>Winners</h2>
       <h3>
-        Explore a wide
+        Recent Sites
         <br></br>
-        variety of collections.
+        of the Day.
       </h3>
     </div>
   );
 };
 
-export default Collections;
+export default Winners;
