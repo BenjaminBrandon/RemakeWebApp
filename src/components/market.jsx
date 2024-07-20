@@ -1,16 +1,16 @@
 import { React } from 'react';
 
-const Collections = () => {
+const Market = () => {
   return (
-    <div className="collections">
-      <h2>Collections</h2>
+    <div className="Market">
+      <h2>Market</h2>
       <h3>
-        Explore a wide
+        A curated marketplace
         <br></br>
-        variety of collections.
+        for digital & physical products.
       </h3>
     </div>
   );
 };
 
-export default Collections;
+export default Market;
