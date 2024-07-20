@@ -1,16 +1,25 @@
 import { React } from 'react';
 
-const Collections = () => {
+const Nominees = () => {
   return (
-    <div className="collections">
-      <h2>Collections</h2>
-      <h3>
-        Explore a wide
-        <br></br>
-        variety of collections.
-      </h3>
+    <div className="Nominees">
+      <div id="Header">
+        <div id="Top">
+          <h2>Latest</h2>
+        </div>
+        <div id="Middle">
+          <h3>Nominees</h3>
+        </div>
+        <div id="Bottom">
+          <h3>
+            Vote for the latest websites on
+            <br></br>
+            awwwards
+          </h3>
+        </div>
+      </div>
     </div>
   );
 };
 
-export default Collections;
+export default Nominees;
