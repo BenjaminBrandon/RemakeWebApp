@@ -1,16 +1,16 @@
 import { React } from 'react';
 
-const Collections = () => {
+const Directory = () => {
   return (
-    <div className="collections">
-      <h2>Collections</h2>
+    <div className="Directory">
+      <h2>Directory</h2>
       <h3>
-        Explore a wide
+        W.CREATORS
         <br></br>
-        variety of collections.
+        Active creators in your country.
       </h3>
     </div>
   );
 };
 
-export default Collections;
+export default Directory;
