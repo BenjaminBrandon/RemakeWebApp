@@ -14,4 +14,3 @@ const Winners = () => {
 };
 
 export default Winners;
-....
